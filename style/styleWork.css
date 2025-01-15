@@ -7,14 +7,3 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-.left-containe {
-    display: flex;
-    flex-direction: column; /* Aligne les éléments verticalement */
-    align-items: center;
-    justify-content: center;
-    background-color: rgba(255, 113, 50, 0.35);
-    width: 15%;
-    height: 100%;
-    border-radius: 20px
-}

@@ -8,46 +8,6 @@ body {
     background-repeat: no-repeat;
 }
 
-.left-containe {
-    display: flex;
-    flex-direction: column; /* Aligne les éléments verticalement */
-    align-items: center;
-    justify-content: center;
-    background-color: rgba(255, 80, 0, 0.35);
-    width: 15%;
-    height: 100%;
-    border-radius: 20px
-}
-
-.right-containe {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: transparent;
-    width: 85%;
-    height: 100%;
-}
-
-button {
-    margin: 100px;
-    border: none;
-    cursor: pointer;
-    background-color: rgb(255, 80, 0);
-    border-radius: 30px;
-    width: 70px;
-    height: 70px;
-}
-
-
-button:hover {
-    background-color: rgb(110, 26, 0);
-}
-button img
-{
-    width: 50px;
-    height: 50px;
-}
-
 form {
     width: 70%;
     display: flex; /* Utilisation de Flexbox pour centrer l'input */

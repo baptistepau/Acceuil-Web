@@ -1,0 +1,8 @@
+.right-containe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    width: 85%;
+    height: 100%;
+}
